@@ -14,23 +14,7 @@ Closing the screen now will automatically restart the timer.
 
 (You should not reset the counters, unless otherwise instructed to do so.)
 ## Install the app with the provided apk.
-You should be greeted with the following screen:  
-
-  
-<img src="https://github.com/L3B7/SensorDataCollector/assets/64687912/e6cf8efa-3db3-4ed9-87db-002f766f9383" alt="Main View" style="width:30%">
-
-## Grant permissions
-Open the settings and click on each 3 permission buttons in the menu.  
-The battery and storage permissions should be straight forward.  
-<img src="https://github.com/L3B7/SensorDataCollector/assets/64687912/7862ea13-56ce-49a3-b656-436dd2065773" alt="Settings" style="width:30%">
-<img src="https://github.com/L3B7/SensorDataCollector/assets/64687912/d37daf34-5ba0-4850-907c-cc34221fadad" alt="Image 2" style="width:30%">
+Grant the required permissions based on the Demo video:
 
 
-If the permission is restricted, please navigate to your application list, find SensorDataCollector, and chose the option from the top right corner to allow restricted permissions.
-
-
-<img src="https://github.com/L3B7/SensorDataCollector/assets/64687912/735e346c-c0d1-4ce9-8219-13121065db09" alt="Image 3" style="width:30%">
-<img src="https://github.com/L3B7/SensorDataCollector/assets/64687912/973128d9-0396-40ec-a49f-a8f6c11850da" alt="Image 4" style="width:30%">
-
-
-
+https://github.com/L3B7/SensorDataCollector-public/assets/64687912/447501cb-f458-4859-aefb-b688b3f5d31a
