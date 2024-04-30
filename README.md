@@ -31,7 +31,7 @@ Closing the screen now will automatically restart the timer.
 ## Install the app with the provided apk.
 Grant the required permissions based on the Demo video:
 
-https://github.com/L3B7/SensorDataCollector-public/blob/main/.gh_assets/InstallDemo.mp4
+https://github.com/L3B7/SensorDataCollector-public/assets/64687912/447501cb-f458-4859-aefb-b688b3f5d31a
 
 
 If for some reason, the notification listener permission cannot be granted on your device, You can still proceed with the Trigger method.
