@@ -1,7 +1,22 @@
+# Please record measurements with the Trigger method:
+0. Grant the permissions
+1. Set the timer value (~1-5min)
+2. Enable the trigger switch
+3. Lock the screen, lay the phone down on the table (or in your pocket), the countdown will start.
+4.   When you receive the notification:
+     - Pick up the phone
+     - Open the screenlock
+     - Close the screen and put the phone back into a resting position
+To finish the measurement session, turn off the trigger switch.
+
+
 # SensorDataCollector
 ## Data Collection App for Gesture based User Authentication
 The goal of this app is to record measurements of people picking up the phone from the table or a pocket.
 These measurements collected by the different on-board sensors will be used to test the theory on a larger scale that the the pickup motion can be used to uniquely identify and authenticate smartphone users.
+
+
+
 
 ## Snooping method
 This app uses a permission that lets it detect (and read the content) of every notification received. This permission is neccessary to let the app detect incoming notifications to trigger a measurement.
@@ -16,5 +31,7 @@ Closing the screen now will automatically restart the timer.
 ## Install the app with the provided apk.
 Grant the required permissions based on the Demo video:
 
+[Installation Demo](https://github.com/L3B7/SensorDataCollector-public/blob/main/.gh_assets/InstallDemo.mp4)
 
-https://github.com/L3B7/SensorDataCollector-public/assets/64687912/447501cb-f458-4859-aefb-b688b3f5d31a
+
+If for some reason, the notification listener permission cannot be granted on your device, You can still proceed with the Trigger method.
