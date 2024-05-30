@@ -1,5 +1,5 @@
 # Please record measurements with the Trigger method:
-0. Grant the permissions
+0. Grant the permissions for Notifications, Filesystem and Battery
 1. Set the timer value (~1-5min)
 2. Enable the trigger switch
 3. Lock the screen, lay the phone down on the table (or in your pocket), the countdown will start.
