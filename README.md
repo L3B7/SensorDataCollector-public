@@ -9,6 +9,7 @@
      - Close the screen and put the phone back into a resting position
 To finish the measurement session, turn off the trigger switch.
 
+You should see the "Self Trigger Count" increment. Do not reset this counter, unless instructed otherwise.
 
 # SensorDataCollector
 ## Data Collection App for Gesture based User Authentication
